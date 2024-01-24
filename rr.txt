@@ -1,0 +1,682 @@
+
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-1">
+        </div>
+        <div class="col-md-6">
+  
+            <br>
+            <div class="sep">
+            </div>
+
+            <div class="row" dir="ltr">
+                                                                                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="vFahad_">
+                        <img class="rank-team-border" src="https://minotar.net/helm/vFahad_/100" alt="">
+                    </div>
+                </div>
+                                                                                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="PerfectRod_">
+                        <img class="rank-team-border" src="https://minotar.net/helm/PerfectRod_/100" alt="">
+                    </div>
+                </div>
+                                                                                                                                 <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Ch2mpion">
+                        <img class="rank-team-border" src="https://minotar.net/helm/Ch2mpion/100" alt="">
+                    </div>
+                </div>
+                                                                                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Sheloon">
+                        <img class="rank-team-border" src="https://minotar.net/helm/Sheloon/100" alt="">
+                    </div>
+                </div>
+                                                                                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="arbde">
+                        <img class="rank-team-border" src="https://minotar.net/helm/arbde/100" alt="">
+                    </div>
+                </div>
+                                                                                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Webmasters">
+                        <img class="rank-team-border" src="https://minotar.net/helm/Webmasters/100" alt="">
+                    </div>
+                </div>
+                                                                                                                                                                 <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Zz__BECOOL__zZ">
+                        <img class="rank-team-border" src="https://minotar.net/helm/Zz__BECOOL__zZ/100" alt="">
+                    </div>
+                </div>
+                                                                                                                 <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="1Ahmqd__">
+                        <img class="rank-team-border" src="https://minotar.net/helm/1Ahmqd__/100" alt="">
+                    </div>
+                </div>
+                                                                                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="DirectPlan">
+                        <img class="rank-team-border" src="https://minotar.net/helm/DirectPlan/100" alt="">
+                    </div>
+                </div>
+                                                                                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="zAtTiLq">
+                        <img class="rank-team-border" src="https://minotar.net/helm/zAtTiLq/100" alt="">
+                    </div>
+                </div>
+                            </div>
+
+            <br>
+            <div class="sep">
+                <p><i class="fa fa-plus" aria-hidden="true"></i> Moderators</p>
+            </div>
+
+            <div class="row" dir="ltr">
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="1F5aMH___3oo">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/1F5aMH___3oo/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="xiDayzer">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/xiDayzer/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="A7mmd">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/A7mmd/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Firas">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/Firas/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="EyesO_Diamond">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/EyesO_Diamond/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="reficiency">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/reficiency/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Nadaa">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/Nadaa/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Meedo_qb">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/Meedo_qb/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="1flyn">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/1flyn/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="LwwH">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/LwwH/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Casteret">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/Casteret/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="yyett">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/yyett/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="iTsJuan_">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/iTsJuan_/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="RamboKinq">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/RamboKinq/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="mauveracer">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/mauveracer/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Iv2a">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/Iv2a/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Aymann_">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/Aymann_/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Zaainab">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/Zaainab/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="wspwsp">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/wspwsp/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="i7ilin">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/i7ilin/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="E3Y">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/E3Y/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="KinderBueno__">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/KinderBueno__/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="1Ely">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/1Ely/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="xL2d">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/xL2d/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Postme">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/Postme/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Wesccar">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/Wesccar/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="haoeris">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/haoeris/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Sanfoor_J">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/Sanfoor_J/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="GsOMAR">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/GsOMAR/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="A2boD">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/A2boD/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="0hFault">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/0hFault/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Zywolt">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/Zywolt/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="ImBexsl_">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/ImBexsl_/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Jxicide">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/Jxicide/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="oTalal">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/oTalal/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="ImMEHDI">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/ImMEHDI/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Al8rshAlaswd">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/Al8rshAlaswd/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="xLuffy1">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/xLuffy1/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="_krynka">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/_krynka/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Klinvc">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/Klinvc/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="JustRois_">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/JustRois_/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="mderal8rob">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/mderal8rob/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="CallinU">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/CallinU/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="1SuchRod_">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/1SuchRod_/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Rma7o">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/Rma7o/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="0hilra">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/0hilra/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="brksfrb2">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/brksfrb2/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="_R3">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/_R3/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="MADIX707">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/MADIX707/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="StrongesT0ne">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/StrongesT0ne/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="0RyZe">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/0RyZe/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="1SPEEDO_">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/1SPEEDO_/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Suquot">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/Suquot/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Nar69">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/Nar69/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="descuidada">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/descuidada/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="zixgamer">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/zixgamer/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="ForgottenByAll">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/ForgottenByAll/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="MVP11">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/MVP11/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="iISrab5bGIi">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/iISrab5bGIi/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="2bod">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/2bod/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="6ahr_Almjals">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/6ahr_Almjals/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="YOUVA">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/YOUVA/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="FexoraNEP">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/FexoraNEP/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="TargetConfirmed">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/TargetConfirmed/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="OnlyK1nq">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/OnlyK1nq/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Mer4no">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/Mer4no/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="_Revoox_">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/_Revoox_/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Watchdog">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/Watchdog/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Qatoosa">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/Qatoosa/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Zz__Mr3nb__zZ">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/Zz__Mr3nb__zZ/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="avxt">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/avxt/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="1Reyleigh">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/1Reyleigh/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="QHTANI">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/QHTANI/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="xzvv">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/xzvv/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Pynifical">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/Pynifical/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="1OdeY">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/1OdeY/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Aboshxm">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/Aboshxm/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="FaaaRis">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/FaaaRis/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Wacros">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/Wacros/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="_JustIdk">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/_JustIdk/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="UnderTest">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/UnderTest/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="420WaFFLe">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/420WaFFLe/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="DiagonalOcean">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/DiagonalOcean/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="brksfrb4">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/brksfrb4/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="SweetyAlice">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/SweetyAlice/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Unavailabl7">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/Unavailabl7/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="vnmpiric">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/vnmpiric/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="baa0">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/baa0/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="sev2ene">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/sev2ene/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="TheWarriorTricky">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/TheWarriorTricky/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="kajo__">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/kajo__/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="ygxn_">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/ygxn_/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="sh59">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/sh59/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="BattleBay">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/BattleBay/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="dangerousarea21">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/dangerousarea21/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="1Qamar_">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/1Qamar_/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="MadDragon007">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/MadDragon007/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="_odex">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/_odex/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Absqtulate">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/Absqtulate/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="ItsSafe">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/ItsSafe/100" alt="">
+                    </div>
+                </div>
+                                <div class="col-lg-1">
+                    <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="royallblu">
+                        <img class="rank-mod-border" src="https://minotar.net/helm/royallblu/100" alt="">
+                    </div>
+                </div>
+                            </div>
+        </div>
+
+        <div class="col-md-1">
+        </div>
+
+        <div class="col-md-3">
+            <br>
+            <div class="sep">
+                <p><i class="fa fa-user" aria-hidden="true"></i> Owner</p>
+            </div>
+            <div class="player-card">
+                <img class="rank-owner-border" src="https://minotar.net/helm/iDhoom/100" alt="">
+                <p>iDhoom</p>
+            </div>
+
+            <div class="sep">
+                <p><i class="fa fa-user" aria-hidden="true"></i> Staff Managers</p>
+            </div>
+            <div class="player-card">
+                <img class="rank-admin-border" src="https://minotar.net/helm/7sO/100" alt="">
+                <p>7sO</p>
+            </div>
+
+            <div class="sep">
+                <p><i class="fa fa-user" aria-hidden="true"></i> Head Admins</p>
+            </div>
+            <div class="player-card">
+                <img class="rank-admin-border" src="https://minotar.net/helm/Jinaaan/100" alt="">
+                <p>Jinaaan</p>
+            </div>
+            <div class="player-card">
+                <img class="rank-admin-border" src="https://minotar.net/helm/comsterr/100" alt="">
+                <p>comsterr</p>
+            </div>
+
+            <div class="sep">
+                <p><i class="fa fa-user" aria-hidden="true"></i> Admins & Senior Mods</p>
+            </div>
+
+                            <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="1Sweet">
+                    <img class="rank-admin-border" src="https://minotar.net/helm/1Sweet/100" alt="">
+                </div>
+                            <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Ev2n">
+                    <img class="rank-admin-border" src="https://minotar.net/helm/Ev2n/100" alt="">
+                </div>
+                            <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="xMz7">
+                    <img class="rank-admin-border" src="https://minotar.net/helm/xMz7/100" alt="">
+                </div>
+                            <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="1Daykel">
+                    <img class="rank-admin-border" src="https://minotar.net/helm/1Daykel/100" alt="">
+                </div>
+                            <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="mohmad_q8">
+                    <img class="rank-admin-border" src="https://minotar.net/helm/mohmad_q8/100" alt="">
+                </div>
+                            <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="xImTaiG_">
+                    <img class="rank-admin-border" src="https://minotar.net/helm/xImTaiG_/100" alt="">
+                </div>
+                            <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Nshme">
+                    <img class="rank-admin-border" src="https://minotar.net/helm/Nshme/100" alt="">
+                </div>
+                            <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="1Rana">
+                    <img class="rank-admin-border" src="https://minotar.net/helm/1Rana/100" alt="">
+                </div>
+                            <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Refolt">
+                    <img class="rank-admin-border" src="https://minotar.net/helm/Refolt/100" alt="">
+                </div>
+                            <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="e9_">
+                    <img class="rank-admin-border" src="https://minotar.net/helm/e9_/100" alt="">
+                </div>
+                            <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="1LaB">
+                    <img class="rank-admin-border" src="https://minotar.net/helm/1LaB/100" alt="">
+                </div>
+                            <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="1HeyImHasson_">
+                    <img class="rank-admin-border" src="https://minotar.net/helm/1HeyImHasson_/100" alt="">
+                </div>
+                            <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="Bunkrat">
+                    <img class="rank-admin-border" src="https://minotar.net/helm/Bunkrat/100" alt="">
+                </div>
+                            <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="yzed">
+                    <img class="rank-admin-border" src="https://minotar.net/helm/yzed/100" alt="">
+                </div>
+                            <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="_NonameIsHere_">
+                    <img class="rank-admin-border" src="https://minotar.net/helm/_NonameIsHere_/100" alt="">
+                </div>
+                            <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="_sadeq">
+                    <img class="rank-admin-border" src="https://minotar.net/helm/_sadeq/100" alt="">
+                </div>
+                            <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="loovq">
+                    <img class="rank-admin-border" src="https://minotar.net/helm/loovq/100" alt="">
+                </div>
+                            <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="nv0ola">
+                    <img class="rank-admin-border" src="https://minotar.net/helm/nv0ola/100" alt="">
+                </div>
+                            <div class="player-card-sm" data-toggle="tooltip" data-placement="top" title="1Ahmd">
+                    <img class="rank-admin-border" src="https://minotar.net/helm/1Ahmd/100" alt="">
+                </div>
+            
+       
+
+</body>
+</html>
